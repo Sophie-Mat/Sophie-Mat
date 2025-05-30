@@ -38,7 +38,7 @@ I’m **Sofia**, a software engineering student with a love for **coding**, **pr
 <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black" />
 <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" />
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" />
-<img alt="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black" />
+<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" />
 </p>
 
 <p>
