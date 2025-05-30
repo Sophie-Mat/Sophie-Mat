@@ -74,7 +74,7 @@ The journey included:
 - SIEM Tools
 - And more...!
 
-## 🗺️ Where can you find me 
+## 🗺️ Where to find me 
  Message me on [LinkedIn](www.linkedin.com/in/sofia-matthaiaki)! It's the quickest and easiest way for both of us!
 
 
